@@ -13,6 +13,10 @@ section{
 	height: 300px;
 
 }
+div img{
+	background-size: 100%;
+
+}
 
 a{
   color:#fff;
@@ -20,7 +24,7 @@ a{
 }
 /* For Descriptions */
 .type-style{
-  
+  margin:auto;
   width:45%;
   height:15%;
   position:absolute;
